@@ -1,0 +1,2 @@
+# HTML-demo
+&lt;table border="1" >   &lt;tr>     &lt;th>Name&lt;/th>     &lt;th>Age&lt;/th>       &lt;th>Country&lt;/th>   &lt;/tr>   &lt;tr>     &lt;td>Harry Depp&lt;/td>     &lt;td>28&lt;/td>     &lt;td>Britain&lt;/td>   &lt;/tr>   &lt;tr>     &lt;td>John Smith&lt;/td>     &lt;td>35&lt;/td>     &lt;td>USA&lt;/td>   &lt;/tr>   &lt;tr>     &lt;td>Ram Krishna&lt;/td>     &lt;td>19&lt;/td>     &lt;td>Nepal&lt;/td>   &lt;/tr> &lt;/table>
